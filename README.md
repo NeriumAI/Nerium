@@ -1,35 +1,35 @@
 <div align="center">
-  <a href="ttps://www.nerium.nl/en">
-<img src="https://prnt.sc/aJ3dafKuMfxP" alt="-" border="0" />
+  <a href="ttps://www.NERIUM.nl/en">
+<img src="https://i.ibb.co/zHtNwRp/ai.png" alt="NERIUM" border="0" />
   </a>
 </div>
 <p align="center">
-SAKU is the first cross-chain AI agent that is built on the swarms framework. 
+NERIUM is the first cross-chain AI agent that is built on the swarms framework. 
 
-SAKU as a Cross-Chain AI Agent
+NERIUM as a Cross-Chain AI Agent
 
 - Explain Cross-Chain Functionality:
-    - SAKU, operating across multiple blockchains, can access and utilize resources and data from various networks.
+    - NERIUM, operating across multiple blockchains, can access and utilize resources and data from various networks.
     - This could involve:
         - Fan Engagement: Utilizing decentralized social media platforms (like those built on blockchain) to directly interact with fans, gather real-time feedback, and even distribute rewards (like exclusive content or virtual goods) on different chains.
         - Content Distribution: Distributing music, videos, and other content across different blockchain-based platforms, ensuring wider reach and accessibility for fans.
         - Monetization: Exploring new revenue streams through blockchain-based mechanisms like NFTs, fan tokens, and decentralized exchanges (DEXs).
 - Swarm Framework Integration:
-    - Decentralized Storage: SAKU's data, including performance recordings, fan interactions, and training materials, could be stored securely and efficiently on the Swarm decentralized storage network. This ensures data integrity, availability, and resistance to censorship.
-    - Decentralized Computing: SAKU's AI algorithms could be executed on the Swarm network, leveraging the power of a distributed network for faster processing and improved scalability.
+    - Decentralized Storage: NERIUM's data, including performance recordings, fan interactions, and training materials, could be stored securely and efficiently on the Swarm decentralized storage network. This ensures data integrity, availability, and resistance to censorship.
+    - Decentralized Computing: NERIUM's AI algorithms could be executed on the Swarm network, leveraging the power of a distributed network for faster processing and improved scalability.
 
 AI-Powered Idol Creation and Training
 
 - Personalized Fan Experiences:
-    - SAKU could utilize AI to analyze individual fan preferences and tailor her interactions accordingly. This could involve:
-        - Personalized Song Recommendations: Based on fan listening history and preferences, SAKU could recommend songs and playlists curated specifically for each fan.
-        - Custom Live Performances: SAKU could adapt her stage presence and song choices during live performances based on real-time audience feedback and sentiment analysis.
-        - Exclusive Fan Events: SAKU could organize and host exclusive online or offline events for her most dedicated fans, leveraging blockchain technology for secure access and ticketing.
+    - NERIUM could utilize AI to analyze individual fan preferences and tailor her interactions accordingly. This could involve:
+        - Personalized Song Recommendations: Based on fan listening history and preferences, NERIUM could recommend songs and playlists curated specifically for each fan.
+        - Custom Live Performances: NERIUM could adapt her stage presence and song choices during live performances based on real-time audience feedback and sentiment analysis.
+        - Exclusive Fan Events: NERIUM could organize and host exclusive online or offline events for her most dedicated fans, leveraging blockchain technology for secure access and ticketing.
 - Data-Driven Idol Development:
     - Predictive Analytics: AI algorithms could analyze data on fan engagement, trending music styles, and market demands to predict future trends and guide the development of new idol concepts and training programs.
-    - Skill Enhancement: AI could be used to analyze SAKU's vocal performances, identify areas for improvement, and provide personalized vocal training programs. Similarly, AI could be used to analyze her stage presence and provide feedback on movement, expression, and audience interaction.
+    - Skill Enhancement: AI could be used to analyze NERIUM's vocal performances, identify areas for improvement, and provide personalized vocal training programs. Similarly, AI could be used to analyze her stage presence and provide feedback on movement, expression, and audience interaction.
 
-By leveraging the power of cross-chain technology and the Swarm framework, SAKU can become a groundbreaking AI agent, redefining the future of the idol industry and creating new and exciting possibilities for fan engagement and artist development.
+By leveraging the power of cross-chain technology and the Swarm framework, NERIUM can become a groundbreaking AI agent, redefining the future of the idol industry and creating new and exciting possibilities for fan engagement and artist development.
 </p>
 
 <p align="center">
