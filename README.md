@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sakuai.club">
-<img src="[https://pictr.com/images/2025/01/07/x14SSY.jpg](https://prnt.sc/aJ3dafKuMfxP)" alt="x14SSY.jpg" border="0" />
+<img src="https://prnt.sc/aJ3dafKuMfxP" alt="x14SSY.jpg" border="0" />
   </a>
 </div>
 <p align="center">
